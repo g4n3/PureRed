@@ -1,0 +1,59 @@
+{
+	"name": "PureRed",
+	"author": "gane#6034",
+	"version": "1.0.0",
+	"description": "A theme with red text over solid black backgrounds.",
+	"authors": [ 
+		{
+			"name": "gane",
+			"id": ""
+		}
+	],
+	"background": {
+		"blur": "0",
+		"url": "",
+		"alpha": "255"
+	},
+	"theme_color_map": {
+		"BACKGROUND_PRIMARY": ["#000000", "#FF0000"],
+		"BACKGROUND_SECONDARY": ["#000000", "#FF0000"],
+		"BACKGROUND_SECONDARY_ALT": ["#000000", "#FF0000"],
+		"BACKGROUND_TERTIARY": ["#000000", "#FF0000"],
+		"BACKGROUND_ACCENT": ["#252525", "#000000"],
+		"BACKGROUND_FLOATING": ["#000000", "#FF0000"],
+		"BACKGROUND_NESTED_FLOATING": ["#000000", "#FF0000"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#000000", "#FF0000"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#000000", "#FF0000"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#000000", "#FF0000"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#000000", "#FF0000"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#252525", "#000000"],
+		"CHANNELS_DEFAULT": ["#FF0000", "#000000"],
+		"HEADER_PRIMARY": ["#FF0000", "#000000"],
+		"HEADER_SECONDARY": ["#FF0000", "#000000"],
+		"INTERACTIVE_ACTIVE": ["#FF0000", "#000000"],
+		"INTERACTIVE_MUTED": ["#FF0000", "#000000"],
+		"INTERACTIVE_NORMAL": ["#FF0000", "#000000"],
+		"TEXT_LINK": ["#7289DA", "#7289DA"],
+		"TEXT_MUTED": ["#FF0000", "#000000"],
+		"TEXT_NORMAL": ["#FF0000", "#000000"],
+        "CHANNEL_ICON": ["#FF0000", "000000"]
+	},
+	"colours": {
+		"PRIMARY_DARK": "#FF0000",
+		"PRIMARY_DARK_100": "#FF0000",
+		"PRIMARY_DARK_300": "#FF0000",
+		"PRIMARY_DARK_360": "#FF0000",
+		"PRIMARY_DARK_400": "#FF0000",
+		"PRIMARY_DARK_500": "#000000",
+		"PRIMARY_DARK_600": "#000000",
+		"PRIMARY_DARK_630": "#000000",
+		"PRIMARY_DARK_700": "#000000",
+		"PRIMARY_DARK_800": "#000000",
+		"BRAND_NEW": "#000000",
+		"WHITE": "#FF0000",
+        "STATUS_GREEN_600": "#FF0000"
+	},
+	"unsafe_colors": {
+		"CHAT_GREY": "#000000"
+	}
+}
